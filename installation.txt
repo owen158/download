@@ -1,0 +1,11 @@
+webstorm
+Sublime Text 3
+node.js 
+-g vue webpack bower gulp
+git/tortoiseGit
+chrome
+opera
+firefox
+internet
+safari
+
