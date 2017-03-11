@@ -10,3 +10,12 @@ firefox
 internet
 safari
 
+webpack 
+可以通过参数让编译的输出内容带有进度和颜色
+webpack --progress --colors
+那么可以启动监听模式
+webpack --progress --colors --watch
+服务实时监听它们的变化并自动刷新页面。
+npm install webpack-dev-server
+来打印错误详情
+webpack --display-error-details
